@@ -1,61 +1,56 @@
-Privacy Policy for HealthGraph
-Effective Date: 1/25/2025
-Thank you for choosing HealthGraph. Your privacy is important to us, and we are committed to protecting the information you share with us. This privacy policy explains how we collect, use, disclose, and safeguard your data when you use the HealthGraph app.
+NeuraGraph Privacy Policy
+Effective Date: March 7, 2025
+Last Updated: March 7, 2025
+Thank you for using NeuraGraph ("App," "we," "our," or "us"). Your privacy is important to us, and this Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the NeuraGraph iOS application.
+By using NeuraGraph, you agree to the collection and use of information in accordance with this policy.
  
-Information We Collect
-1. Health Data
-With your permission, HealthGraph may collect and access data from Apple’s HealthKit framework, including but not limited to:
-•	Step count
-•	Screen time duration
-•	Dietary data (e.g., carbs and sugars input manually)
-This data is stored locally on your device and is never shared with third parties.
-2. User-Provided Data
-When you interact with the app, you may provide the following:
-•	Manually entered data (e.g., dietary details like sugar and carbs)
-•	Screen time duration (input manually or retrieved from FamilyControls, if authorized)
-3. Diagnostic Data
-We may collect non-identifiable diagnostic and usage data (e.g., app crash logs) to improve the performance and functionality of the app.
+1. Information We Collect
+We collect the following types of information to provide and improve the NeuraGraph app:
+1.1. Information You Provide to Us
+•	Uploaded Images: When you take or upload photos for food recognition, those images are securely stored and may be reviewed to improve the accuracy of our machine learning model.
+•	User Feedback & Support Requests: If you contact us for support, we may collect your email address and any information voluntarily provided in your request.
+1.2. Information Collected Automatically
+•	Device Information: We may collect anonymized technical data such as device model, iOS version, and app performance logs to improve functionality.
+•	App Usage Data: We may collect anonymized analytics on how users interact with NeuraGraph to enhance app experience.
+1.3. Information Collected from Third Parties
+NeuraGraph does not integrate with third-party advertising or data collection services.
  
-How We Use Your Information
-HealthGraph uses your data solely for the purpose of providing the app’s features:
-•	Calculating health metrics (e.g., biomarker, exercise, and diet scores)
-•	Displaying insights and progress based on your input and data from HealthKit or FamilyControls
-•	Allowing you to track and improve your health and wellness goals
-Your data is processed locally on your device, and we do not transmit, store, or sell your health data to external servers or third parties.
+2. How We Use Your Information
+We use collected data for the following purposes:
+•	To process images and deliver the app’s core functionality.
+•	To improve food recognition accuracy by reviewing images and incorporating them into our machine learning model.
+•	To enhance app performance and fix technical issues.
+•	To provide customer support when requested.
+NeuraGraph does not use user data for advertising, tracking, or third-party analytics.
  
-Data Storage and Security
-•	All health-related data is stored locally on your device.
-•	We do not upload or store your data on external servers.
-•	Data shared with Apple’s HealthKit framework is handled in accordance with Apple’s HealthKit policies.
-•	We use industry-standard encryption and secure storage to protect your data.
+3. Data Storage & Security
+•	Image Retention: Photos submitted through NeuraGraph are securely stored and may be used to improve our food recognition model. We retain images only as long as necessary for this purpose.
+•	Security Measures: We implement industry-standard security practices to protect stored data from unauthorized access.
+•	Access Restrictions: Only authorized personnel have access to stored images, and they are used solely for model improvement.
  
-Third-Party Services
-HealthGraph does not share your health or personal data with third-party services.
-However, the app may interact with the following frameworks:
-•	Apple HealthKit: For reading step count and other health-related metrics, based on your explicit consent.
-•	FamilyControls: To retrieve screen time data for biomarker calculations, based on your explicit consent.
-These frameworks are provided by Apple, and their privacy policies apply:
-•	Apple HealthKit Privacy Policy
-•	FamilyControls Documentation
+4. Data Sharing & Disclosure
+We do not sell, trade, or share personal data with third parties except:
+•	When required by law or government requests.
+•	If necessary, to protect the rights, property, or safety of NeuraGraph users.
+Images used for model improvement are never shared publicly or used outside the scope of improving the app’s functionality.
  
-Your Consent
-By using HealthGraph, you consent to the collection and use of your data as outlined in this privacy policy. You can revoke permissions at any time through:
-•	Settings > Privacy > Health (to manage HealthKit data sharing)
-•	Settings > Screen Time > App Limits (to manage FamilyControls permissions)
+5. User Controls & Data Deletion
+•	Request to Delete Images: If you wish to have your submitted images removed from our dataset, you can contact us at healthgraphadmin@gmail.com
+•	Analytics Opt-Out: If applicable, users can disable Apple’s analytics sharing in Settings > Privacy > Analytics & Improvements on their iOS device.
  
-Your Rights
-As a user, you have the following rights:
-1.	Access: You can view and manage your health data within the app or through Apple’s Health app.
-2.	Revoke Permissions: At any time, you can revoke access to HealthKit or FamilyControls through your device’s settings.
-3.	Data Deletion: All data collected by HealthGraph is stored locally on your device. To delete all data, simply uninstall the app.
+6. Third-Party Services
+NeuraGraph does not integrate with third-party services that collect user data. Any external API calls (e.g., Apple frameworks) are used solely for app functionality.
  
-Changes to This Privacy Policy
-We may update this privacy policy from time to time. Any changes will be reflected with an updated "Effective Date" at the top of this document. We encourage you to review this policy periodically.
+7. Children's Privacy
+NeuraGraph is not intended for use by children under 13, and we do not knowingly collect personal information from children.
  
-Contact Us
-If you have any questions or concerns about this privacy policy, please contact us at:
-HealthGraph Support
-Email: debian.ted.data@gmail.com
+8. Changes to This Privacy Policy
+We may update this Privacy Policy as needed. We will notify users of significant changes through the App Store listing or in-app notifications.
+ 
+9. Contact Us
+If you have questions about this Privacy Policy, you can contact us at:
+NeuraGraph Support
+Email: healthgraphadmin@gmail.com
+Website: https://github.com/HealthGraphAdmin
 
-
-![image](https://github.com/user-attachments/assets/b4257636-adca-494a-9d12-6df46584b48a)
+![image](https://github.com/user-attachments/assets/087271aa-7866-4001-90fc-7d3e149a3497)
